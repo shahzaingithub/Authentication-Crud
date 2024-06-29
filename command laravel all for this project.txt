@@ -32,7 +32,7 @@ set kernel page
 
 go to middleware page 'test'
 
-if(auth)->check(){
+if(auth()->check()){
 	return $next($request);
 }else{
 	return redirect('/');
