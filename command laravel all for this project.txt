@@ -1,0 +1,40 @@
+composer create-project laravel/laravel project_name
+
+composer global require laravel/installer
+
+laravel new project_name
+
+cd proj_name
+
+php artisan serve
+
+
+For Register and Login Page 
+
+composer require laravel/ui
+
+php artisan ui bootstrap --auth
+
+npm i
+
+npm run dev
+
+php artisan migrate 
+
+php artisan serve
+
+
+For Middleware 
+
+php artisan make:middleware test
+
+set kernel page
+
+go to middleware page 'test'
+
+if(auth)->check(){
+	return $next($request);
+}else{
+	return redirect('/');
+}
+}
