@@ -26,3 +26,177 @@ public function store(Request $request){
 
     return redirect('users');
 }
+
+
+
+
+// section
+
+
+
+
+
+<div class="container">
+
+        <div class="row">
+            <div class="col-lg-5">
+                <img style="width:450px ;" src="image.png" alt="" srcset="">
+            </div>
+            <div class="col-lg-7">
+                <div class="row">
+                    <div class="col-12"><h4>Our Workflow</h4></div>
+                    <div class="col-12"><p>I always follow professional Workflow and provide you best service with resealable costs. </p></div>                                        
+                    
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-lg-2">
+                              <h5 style="border-radius: 100%;width: 100%;height: fit-content;height: 40px;width: 40px;" class="bg-primary rounded-circle d-flex justify-content-center align-items-center h-20 text-light ">01</h5>
+                            </div>
+                            <div class="col-lg-10">
+                                <div class="head-para">
+                                    <h6>Your Brief</h6>
+                                    <p id="paragraph">I always follow professional Workflow and provide you best service with resealable costs.
+                                    </p>
+                                </div>
+        
+                            </div>
+                        </div>
+                    </div>
+        
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-lg-2">
+                              <h5 style="border-radius: 100%;width: 100%;height: fit-content;height: 40px;width: 40px;" class="bg-primary rounded-circle d-flex justify-content-center align-items-center h-20 text-light ">01</h5>
+                            </div>
+                            <div class="col-lg-10">
+                                <div class="head-para">
+                                    <h6>Your Brief</h6>
+                                    <p id="paragraph">I always follow professional Workflow and provide you best service with resealable costs.
+                                    </p>
+                                </div>
+        
+                            </div>
+                        </div>
+                    </div>  
+
+
+
+
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-lg-2">
+                              <h5 style="border-radius: 100%;width: 100%;height: fit-content;height: 40px;width: 40px;" class="bg-primary rounded-circle d-flex justify-content-center align-items-center h-20 text-light ">01</h5>
+                            </div>
+                            <div class="col-lg-10">
+                                <div class="head-para">
+                                    <h6>Your Brief</h6>
+                                    <p id="paragraph">I always follow professional Workflow and provide you best service with resealable costs.
+                                    </p>
+                                </div>
+        
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-lg-2">
+                              <h5 style="border-radius: 100%;width: 100%;height: fit-content;height: 40px;width: 40px;" class="bg-primary rounded-circle d-flex justify-content-center align-items-center h-20 text-light ">01</h5>
+                            </div>
+                            <div class="col-lg-10">
+                                <div class="head-para">
+                                    <h6>Your Brief</h6>
+                                    <p id="paragraph">I always follow professional Workflow and provide you best service with resealable costs.
+                                    </p>
+                                </div>
+        
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-lg-2">
+                              <h5 style="border-radius: 100%;width: 100%;height: fit-content;height: 40px;width: 40px;" class="bg-primary rounded-circle d-flex justify-content-center align-items-center h-20 text-light ">01</h5>
+                            </div>
+                            <div class="col-lg-10">
+                                <div class="head-para">
+                                    <h6>Your Brief</h6>
+                                    <p id="paragraph">I always follow professional Workflow and provide you best service with resealable costs.
+                                    </p>
+                                </div>
+        
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-lg-2">
+                              <h5 style="border-radius: 100%;width: 100%;height: fit-content;height: 40px;width: 40px;" class="bg-primary rounded-circle d-flex justify-content-center align-items-center h-20 text-light ">01</h5>
+                            </div>
+                            <div class="col-lg-10">
+                                <div class="head-para">
+                                    <h6>Your Brief</h6>
+                                    <p id="paragraph">I always follow professional Workflow and provide you best service with resealable costs.
+                                    </p>
+                                </div>
+        
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-lg-2">
+                              <h5 style="border-radius: 100%;width: 100%;height: fit-content;height: 40px;width: 40px;" class="bg-primary rounded-circle d-flex justify-content-center align-items-center h-20 text-light ">01</h5>
+                            </div>
+                            <div class="col-lg-10">
+                                <div class="head-para">
+                                    <h6>Your Brief</h6>
+                                    <p id="paragraph">I always follow professional Workflow and provide you best service with resealable costs.
+                                    </p>
+                                </div>
+        
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-lg-2">
+                              <h5 style="border-radius: 100%;width: 100%;height: fit-content;height: 40px;width: 40px;" class="bg-primary rounded-circle d-flex justify-content-center align-items-center h-20 text-light ">01</h5>
+                            </div>
+                            <div class="col-lg-10">
+                                <div class="head-para">
+                                    <h6>Your Brief</h6>
+                                    <p id="paragraph">I always follow professional Workflow and provide you best service with resealable costs.
+                                    </p>
+                                </div>
+        
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-lg-2">
+                              <h5 style="border-radius: 100%;width: 100%;height: fit-content;height: 40px;width: 40px;" class="bg-primary rounded-circle d-flex justify-content-center align-items-center h-20 text-light ">01</h5>
+                            </div>
+                            <div class="col-lg-10">
+                                <div class="head-para">
+                                    <h6>Your Brief</h6>
+                                    <p id="paragraph">I always follow professional Workflow and provide you best service with resealable costs.
+                                    </p>
+                                </div>
+        
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+//section end
